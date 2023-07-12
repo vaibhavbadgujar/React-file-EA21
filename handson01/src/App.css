@@ -56,7 +56,7 @@ body {
 
 .container2 {
   width: 500px;
-  background-color: #2d88d0;
+  background-color: #d02d40;
   height: 15rem;
   border-radius: 2rem;
   display: flex;
@@ -79,7 +79,7 @@ body {
 }
 
 .button1 {
-  background-color: #60e4a4;
+ 
   padding: 20px;
   border-radius: 20px;
   left: 27%;
@@ -87,7 +87,6 @@ body {
 }
 
 .button2 {
-  background-color: aqua;
   padding: 20px;
   border-radius: 20px;
   margin-top: 5%;
